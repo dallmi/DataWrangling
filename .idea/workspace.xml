@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5ee9d83-b72f-4121-be55-3725993fdf01" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xlwings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b5ee9d83-b72f-4121-be55-3725993fdf01" name="Default" comment="" />
     <ignored path="DataWrangling.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,8 +113,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
-    <option name="y" value="85" />
+    <option name="x" value="-1465" />
+    <option name="y" value="137" />
     <option name="width" value="1165" />
     <option name="height" value="779" />
   </component>
@@ -324,7 +320,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="85" width="1165" height="779" extended-state="0" />
+    <frame x="-1465" y="137" width="1165" height="779" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47826087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
