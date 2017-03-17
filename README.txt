@@ -13,8 +13,11 @@ Adding a Git repository from your local to remote (https://help.github.com/artic
 Create new branch for DEV work
 1. log into Github
 2. select your repository
-3. 
-
+3. click on Branch and type new name (example Feature)
+4. now you change one of the code files or add it to Feature Branch
+5. commit and create push request
+6. Merge pull request
+7. Delete Feature branch
 
 
 VIM editor
